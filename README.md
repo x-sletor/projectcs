@@ -1,4 +1,4 @@
-# projectcs
+# nameproject
 
 ## Project setup
 ```
